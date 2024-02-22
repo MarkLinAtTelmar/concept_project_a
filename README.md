@@ -19,5 +19,7 @@ git push origin HEAD:main
 
 push
 ```
+git commit -a -m "<message>"
+git push origin HEAD:main
 git subtree push --prefix=share_module_x/ https://github.com/MarkLinAtTelmar/share_module_x.git main
 ```
