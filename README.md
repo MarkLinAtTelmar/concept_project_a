@@ -13,6 +13,8 @@ git subtree add --prefix share_module_x https://github.com/MarkLinAtTelmar/
 pull
 ```
 git subtree pull --prefix share_module_x https://github.com/MarkLinAtTelmar/share_module_x.git main --squash
+
+git push origin HEAD:main
 ```
 
 push
